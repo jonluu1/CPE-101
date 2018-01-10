@@ -8,7 +8,14 @@ class VehicleTests(unittest.TestCase):
         self.assertEquals(testVehicle.fuel, 10)
         self.assertEquals(testVehicle.doors, 4)
         self.assertEquals(testVehicle.roof, True)
-      # Add code here.
+
+    def test_vehicle_again(self):
+        testVehicle2 = vehicle.Vehicle(18, 100, 2, False)
+        self.assertEquals(testVehicle2.wheels, 18)
+        self.assertEquals(testVehicle2.fuel, 100)
+        self.assertEquals(testVehicle2.doors, 2)
+        self.assertEquals(testVehicle2.roof, False)
+    # Add code here.
 
 
 # Run the unit tests.
