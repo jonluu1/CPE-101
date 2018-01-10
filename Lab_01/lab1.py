@@ -3,9 +3,9 @@
 #
 # You will need to supply the following information.
 #
-# Name:
-# Instructor: 
-# Section:
+# Name: Jonathan Luu
+# Instructor: Hollister
+# Section: CSC 101_09_2183
 #
 
 print ("Hello, World.")
