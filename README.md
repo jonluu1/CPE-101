@@ -1,2 +1,3 @@
-# CSC101
-Cal Poly CSC 101 Winter 2018
+# CPE 101
+## Jonathan Luu
+## Cal Poly Winter 12018
