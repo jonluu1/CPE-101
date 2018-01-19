@@ -55,7 +55,7 @@ class TestData(unittest.TestCase):
     #Test Sphere 1
     def test_sphere_1(self):
         testSphere1_Point = data.Point(1, 2, 3)
-        testSphere1 = data.Shpere(testSphere1_Point, 10)
+        testSphere1 = data.Sphere(testSphere1_Point, 10)
         self.assertEquals(testSphere1.point, testSphere1_Point)
         self.assertEquals(testSphere1.radius, 10)
         self.assertEquals(testSphere1.point.x, 1)
@@ -64,7 +64,7 @@ class TestData(unittest.TestCase):
     #Test Sphere 2
     def test_sphere_2(self):
         testSphere2_Point = data.Point(11.7, 2.4, 4.5)
-        testSphere2 = data.Shpere(testSphere2_Point, 12)
+        testSphere2 = data.Sphere(testSphere2_Point, 12)
         self.assertEquals(testSphere2.point, testSphere2_Point)
         self.assertEquals(testSphere2.radius, 12)
         self.assertEquals(testSphere2.point.x, 11.7)

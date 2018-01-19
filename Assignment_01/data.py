@@ -15,7 +15,7 @@ class Ray:
         self.point = point
         self.direction = direction
 
-class Shpere:
+class Sphere:
     def __init__(self, point, radius):
         self.point = point
         self.radius = float(radius)
