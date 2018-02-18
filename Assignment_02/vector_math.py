@@ -31,11 +31,11 @@ def normalize_vector(vector):
         return data.Vector(x, y, z)
 
 
-def difference_point(point1, point2):
+def difference_point(point1, point2):#fix
     x = point1.x - point2.x
     y = point1.y - point2.y
     z = point1.z - point2.z
-    return data.Point(x, y, z)
+    return data.Vector(x, y, z)
 
 
 def difference_vector(vector1, vector2):
