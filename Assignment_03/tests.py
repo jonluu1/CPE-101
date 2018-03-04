@@ -40,7 +40,7 @@ class TestCollisions(unittest.TestCase):
         point1_sphere = data.Point(0.0, 1.0, 0.0)
         sphere1 = data.Sphere(point1_sphere, 1.0)
         collision_point = collisions.sphere_intersection_point(ray, sphere1)
-        self.assertEqual(collision_point, data.Point(0.0, 0.0, 0.0))
+        self.assertEqual(collision_point, data.Point(10.0, 0.0, 0.0))
 
     def test_sphere_intersection_2(self):
         point_ray = data.Point(-10.0, 0.0, 0.0)
@@ -83,7 +83,7 @@ class TestCollisions(unittest.TestCase):
         point2_sphere = data.Point(0.0, 0.0, 0.0)
         sphere2 = data.Sphere(point2_sphere, 1.0)
         collision_points = collisions.find_intersection_points([sphere0, sphere1, sphere2], ray)
-        self.assertEqual(collision_points[0], data.Point(0.0, 0.0, 0.0))
+        self.assertEqual(collision_points[0], data.Point(10.0, 0.0, 0.0))
         self.assertEqual(collision_points[1], data.Point(-1.0, 0.0, 0.0))
 
 

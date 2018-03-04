@@ -7,6 +7,9 @@ class Point:
         self.y = y
         self.z = z
 
+    # def __getitem__(self, item):
+    #     return self.values[item]
+
     def __eq__(self, other):
         equality1 = utility.epsilon_equal(self.x, other.x)
         equality2 = utility.epsilon_equal(self.y, other.y)

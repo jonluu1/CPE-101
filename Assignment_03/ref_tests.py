@@ -16,8 +16,7 @@ class TestCollisions(unittest.TestCase):
     def test_sphere_intersection1(self):
         s = Sphere(Point(0.0, 2.0, 0.0), 1.0)
         r = Ray(Point(0.0, 0.0, 0.0), Vector(0.0, 1.0, 0.0))
-        intercp = sphere_intersection_point(r, s)
-        self.assertEqual(intercp, Point(0.0, 1.0, 0.0),
+        self.assertEqual(sphere_intersection_point(r, s), Point(0.0, 1.0, 0.0),
         'Intersection 1: simple test along y-axis')
 
 
@@ -91,8 +90,7 @@ class TestCollisions(unittest.TestCase):
         (Sphere(Point(0.0, 5.0, 0.0), 1.0), Point(0.0, 4.0, 0.0)),
         (Sphere(Point(0.0, 8.0, 0.0), 1.0), Point(0.0, 7.0, 0.0))
         ]
-        interpoint = find_intersection_points(spheres, r)
-        self.assertEqual(interpoint, expected,
+        self.assertEqual(find_intersection_points(spheres, r), expected,
             'Find Intersection Points 1: Hits three (of four) spheres.' +
             '\tThe order should match if directions were carefully followed.')
 
