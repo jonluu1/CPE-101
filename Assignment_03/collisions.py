@@ -7,11 +7,6 @@ def sphere_intersection_point(ray, sphere):
     c = vm.dot_vector(vm.vector_from_to(sphere.center, ray.pt), vm.vector_from_to(sphere.center, ray.pt)) - sphere.radius ** 2
     x = vm.quadForm(a, b, c)
 
-    # pt_center_vec = vm.vector_from_to(sphere.center, ray.pt)
-    # a = vm.dot_vector(ray.dir, ray.dir)
-    # b = vm.dot_vector(vm.scale_vector(pt_center_vec, 2), ray.dir)
-    # c = vm.dot_vector(pt_center_vec, pt_center_vec) - sphere.radius ** 2
-    # x = vm.quadForm(a, b, c)
 
     def point_along_ray(ray, t):
         if t >= 0:
@@ -54,14 +49,18 @@ def sphere_intersection_point(ray, sphere):
 
 
 def find_intersection_points(sphere_list, ray):
-    intersectionNoneList = []
-    for i in sphere_list:
-        intersectionNoneList.append(sphere_intersection_point(ray, i))
     intersectionList = []
-    for i in intersectionNoneList:
-        if i is not None:
-            intersectionList.append(i)
+    for i in sphere_list:
+        intersectionPoint = sphere_intersection_point(ray, i)
+        if intersectionPoint is not None:
+            intersectionList.append(tuple((i, intersectionPoint)))
     return intersectionList
 
-    # intersections_and_none = map(lambda sphere: (sphere, sphere_intersection_point(ray, sphere)), sphere_list)
-    # return filter(lambda intersections: intersections[1] is not None, intersections_and_none)
+
+
+    # for i in intersectionNoneList:
+    #     if i is not None:
+    #         intersectionList.append(i)
+    # return intersectionList
+
+

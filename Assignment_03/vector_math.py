@@ -67,10 +67,10 @@ def quadForm(a, b, c):
     if discriminant < 0:
         return None
     if discriminant == 0:
-        return -b + math.sqrt(discriminant) / 2 * a
+        return (-b + math.sqrt(discriminant)) / (2 * a)
     else:
-        x1 = (-b + math.sqrt(discriminant)) / 2 * a
-        x2 = (-b - math.sqrt(discriminant)) / 2 * a
+        x1 = (-b + math.sqrt(discriminant)) / (2 * a)
+        x2 = (-b - math.sqrt(discriminant)) / (2 * a)
         return [x1, x2]
 
 def distForm(point1, point2):

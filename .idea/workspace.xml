@@ -23,7 +23,7 @@
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_ref_tests_TestCollisions_test_find_intersection_points1.coverage" NAME="Unittests for ref_tests.TestCollisions.test_find_intersection_points1 Coverage Results" MODIFIED="1520149490689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
     <SUITE FILE_PATH="coverage/CPE_101$tests.coverage" NAME="tests Coverage Results" MODIFIED="1518987518367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_02" />
     <SUITE FILE_PATH="coverage/CSC101$Unittests_in_funcs_tests_py.coverage" NAME="Unittests in funcs_tests.py Coverage Results" MODIFIED="1516822005915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_02/funcs" />
-    <SUITE FILE_PATH="coverage/CPE_101$Unittests_in_ref_tests_py.coverage" NAME="Unittests in ref_tests.py Coverage Results" MODIFIED="1520150753875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
+    <SUITE FILE_PATH="coverage/CPE_101$Unittests_in_ref_tests_py.coverage" NAME="Unittests in ref_tests.py Coverage Results" MODIFIED="1520198222159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_tests_TestData_test_point_2.coverage" NAME="Unittests for tests.TestData.test_point_2 Coverage Results" MODIFIED="1520142193198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_02" />
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_object_equality_tests_TestCases_test_equality_2.coverage" NAME="Unittests for object_equality_tests.TestCases.test_equality_2 Coverage Results" MODIFIED="1517776094539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_03/object_equality" />
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_filter_tests_TestCases.coverage" NAME="Unittests for filter_tests.TestCases Coverage Results" MODIFIED="1520126510359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_05/filter" />
@@ -63,7 +63,7 @@
     <SUITE FILE_PATH="coverage/CSC101$Unittests_in_lab1_test_cases_py.coverage" NAME="Unittests in lab1_test_cases.py Coverage Results" MODIFIED="1516216486386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_01" />
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_test_TestData_test_sphere_normal_at_point.coverage" NAME="Unittests for test.TestData.test_sphere_normal_at_point Coverage Results" MODIFIED="1520137587681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
     <SUITE FILE_PATH="coverage/CPE_101$printing.coverage" NAME="printing Coverage Results" MODIFIED="1517775544116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_02/printing" />
-    <SUITE FILE_PATH="coverage/CPE_101$Unittests_in_tests_py.coverage" NAME="Unittests in tests.py Coverage Results" MODIFIED="1520151114212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
+    <SUITE FILE_PATH="coverage/CPE_101$Unittests_in_tests_py.coverage" NAME="Unittests in tests.py Coverage Results" MODIFIED="1520198165016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_03" />
     <SUITE FILE_PATH="coverage/CPE_101$Unittests_for_object_equality_tests_TestCases_test_point_one.coverage" NAME="Unittests for object_equality_tests.TestCases.test_point_one Coverage Results" MODIFIED="1517776023197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_03/object_equality" />
     <SUITE FILE_PATH="coverage/CSC101$printing.coverage" NAME="printing Coverage Results" MODIFIED="1516822091435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_02/printing" />
     <SUITE FILE_PATH="coverage/CSC101$vehicle.coverage" NAME="vehicle Coverage Results" MODIFIED="1515609807466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_01/vehicle" />
@@ -72,12 +72,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
-          <file leaf-file-name="ref_tests.py" pinned="true" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ref_tests.py" pinned="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assignment_03/ref_tests.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="197">
-                  <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+                <state relative-caret-position="323">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="23" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -93,11 +93,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="data.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assignment_03/data.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+                <state relative-caret-position="-175">
+                  <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -106,7 +106,7 @@
           <file leaf-file-name="case.py" pinned="false" current-in-tab="false">
             <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
+                <state relative-caret-position="13838">
                   <caret line="827" column="0" lean-forward="false" selection-start-line="827" selection-start-column="0" selection-end-line="827" selection-end-column="0" />
                   <folding />
                 </state>
@@ -116,7 +116,7 @@
           <file leaf-file-name="diff_tools.py" pinned="false" current-in-tab="false">
             <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="134">
+                <state relative-caret-position="459">
                   <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding />
                 </state>
@@ -126,13 +126,15 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assignment_03/tests.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="350">
-                  <caret line="84" column="96" lean-forward="false" selection-start-line="84" selection-start-column="96" selection-end-line="84" selection-end-column="96" />
-                  <folding />
+                <state relative-caret-position="27">
+                  <caret line="240" column="32" lean-forward="false" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -140,8 +142,8 @@
           <file leaf-file-name="vector_math.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assignment_03/vector_math.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="236">
-                  <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+                <state relative-caret-position="384">
+                  <caret line="72" column="53" lean-forward="false" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
                   <folding />
                 </state>
               </provider>
@@ -150,8 +152,8 @@
           <file leaf-file-name="collisions.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assignment_03/collisions.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="464">
-                  <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="27" />
+                <state relative-caret-position="452">
+                  <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -184,6 +186,7 @@
       <find>assertList</find>
       <find>assertListAlmostEqual</find>
       <find>vector_math</find>
+      <find>quadratic_formula</find>
     </findStrings>
     <replaceStrings>
       <replace>testLine</replace>
@@ -195,6 +198,7 @@
       <replace>dir</replace>
       <replace>assertListEqual</replace>
       <replace>vm</replace>
+      <replace>quadForm</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -239,11 +243,11 @@
         <option value="$PROJECT_DIR$/Lab_06/fold/fold.py" />
         <option value="$PROJECT_DIR$/Assignment_03/collisionns.py" />
         <option value="$PROJECT_DIR$/Assignment_03/test.py" />
-        <option value="$PROJECT_DIR$/Assignment_03/vector_math.py" />
-        <option value="$PROJECT_DIR$/Assignment_03/collisions.py" />
         <option value="$PROJECT_DIR$/Assignment_03/data.py" />
-        <option value="$PROJECT_DIR$/Assignment_03/ref_tests.py" />
+        <option value="$PROJECT_DIR$/Assignment_03/vector_math.py" />
         <option value="$PROJECT_DIR$/Assignment_03/tests.py" />
+        <option value="$PROJECT_DIR$/Assignment_03/ref_tests.py" />
+        <option value="$PROJECT_DIR$/Assignment_03/collisions.py" />
       </list>
     </option>
   </component>
@@ -293,7 +297,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,7 +314,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in tests.py">
+  <component name="RunManager" selected="Python tests.Unittests in ref_tests.py">
     <configuration name="Unittests for ref_tests.TestCollisions.test_find_intersection_points1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,9 +426,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in tests.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for tests.TestCollisions.test_sphere_intersection_3" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ref_tests.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ref_tests.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in tests.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for tests.TestCollisions.test_sphere_intersection_3" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for ref_tests.TestCollisions.test_find_intersection_points1" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in ref_tests.py (1)" />
       </list>
@@ -447,34 +451,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 07m 40s.xml">
+    <history-entry file="Unittests_in_ref_tests_py - 2018.03.04 at 13h 11m 55s.xml">
+      <configuration name="Unittests in ref_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ref_tests_py - 2018.03.04 at 13h 12m 01s.xml">
+      <configuration name="Unittests in ref_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ref_tests_py - 2018.03.04 at 13h 17m 02s.xml">
+      <configuration name="Unittests in ref_tests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 12m 11s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 07m 57s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 12m 28s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 08m 38s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 12m 39s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 08m 49s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 15m 10s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 10m 07s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 15m 41s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 10m 36s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 15m 55s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 11m 01s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 11m 40s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 11m 47s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 00h 11m 54s.xml">
+    <history-entry file="Unittests_in_tests_py - 2018.03.04 at 13h 16m 05s.xml">
       <configuration name="Unittests in tests.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -488,7 +492,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32717392" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.075119235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07551669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -542,12 +546,17 @@
           <line>10</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Assignment_03/tests.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/Assignment_03/ref_tests.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment_03/ref_tests.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -668,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,9 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,9 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,9 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="491" column="0" lean-forward="false" selection-start-line="491" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="1067" column="0" lean-forward="false" selection-start-line="1067" selection-start-column="0" selection-end-line="1067" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -760,9 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-296">
           <caret line="9" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,9 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3662">
           <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1129">
           <caret line="160" column="34" lean-forward="false" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,31 +793,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="588" column="0" lean-forward="false" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ass3.1/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="328" column="41" lean-forward="false" selection-start-line="328" selection-start-column="41" selection-end-line="328" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ass3.1/ref_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1520">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Ass3.1/tests.py" />
+    <entry file="file://$PROJECT_DIR$/Ass3.1/ref_tests.py" />
     <entry file="file://C:/Program Files (x86)/Python36-32/Lib/contextlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,37 +855,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6098">
           <caret line="1667" column="0" lean-forward="false" selection-start-line="1667" selection-start-column="0" selection-end-line="1667" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_03/vector_math.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_03/collisions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="49" column="27" lean-forward="false" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_03/ref_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="459">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
@@ -930,7 +868,7 @@
     </entry>
     <entry file="file://C:/Program Files (x86)/Python36-32/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="13838">
           <caret line="827" column="0" lean-forward="false" selection-start-line="827" selection-start-column="0" selection-end-line="827" selection-end-column="0" />
           <folding />
         </state>
@@ -946,17 +884,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment_03/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="-175">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_03/ref_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_03/collisions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_03/vector_math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="72" column="53" lean-forward="false" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment_03/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="84" column="96" lean-forward="false" selection-start-line="84" selection-start-column="96" selection-end-line="84" selection-end-column="96" />
-          <folding />
+        <state relative-caret-position="27">
+          <caret line="240" column="32" lean-forward="false" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
